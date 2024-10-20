@@ -1,4 +1,4 @@
-# YouTube Subscription Manager
+# Subscriptions from NewPipe to YouTube
 
 This Python project allows users to automate subscribing to YouTube channels via the YouTube Data API v3. It reads a list of channels from a JSON file and automatically subscribes to them using a Google Colab environment.
 
