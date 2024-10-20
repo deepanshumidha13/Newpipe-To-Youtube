@@ -54,10 +54,9 @@ Run the provided code in Colab.
 You will be asked to authenticate using Google OAuth.
 
 ### Demo
-https://github.com/user-attachments/assets/a51bdfab-58b8-488a-8d19-ae2240017a45
+https://github.com/user-attachments/assets/d65b6489-6a47-4edc-8b06-a6e5b0acac48
 
 ### Youtube API Charts
-![Screenshot 2024-10-20 144701](https://github.com/user-attachments/assets/45657abb-d052-4a5a-911a-8a46c977350b)
-![Screenshot 2024-10-20 144729](https://github.com/user-attachments/assets/b0da72e0-6b00-4c24-8d6f-7658f80dfc2b)
-![Screenshot 2024-10-20 144756](https://github.com/user-attachments/assets/cccb3ae3-ac9b-42f2-8ab0-e67f1625b001)
-![Screenshot 2024-10-20 144818](https://github.com/user-attachments/assets/33ff96b2-60d3-4b25-a941-f693c1600008)
+![Screenshot 2024-10-20 144701](https://github.com/user-attachments/assets/fe0f2965-7d1b-4150-b13e-d18cca9a404f)
+![Screenshot 2024-10-20 144729](https://github.com/user-attachments/assets/1ba29a29-bbce-44e4-b644-d47fc6d9702f)
+![Screenshot 2024-10-20 144818](https://github.com/user-attachments/assets/e6f76f59-85ec-47c1-bcd3-9a4e2c96223d)
