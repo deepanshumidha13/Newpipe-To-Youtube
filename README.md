@@ -39,7 +39,7 @@ Example format:
 * Clone the Repository:  
 First, clone the repository to your local machine:  
   ```bash
-  git clone https://github.com/yourusername/youtube-subscription-manager.git
+  git clone https://github.com/deepanshumidha5140/Newpipe-To-Youtube
   cd youtube-subscription-manager
   ```
 * Google Cloud Setup:  
